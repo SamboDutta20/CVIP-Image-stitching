@@ -1,8 +1,6 @@
-# CVIP-Image-stitching-RANSAC-algorithm
+# CVIP-Image-stitching
 Keypoints (SIFT descriptors or KAZE descriptors) were used to generate homography matrix using custom RANSAC algorithm. Implementation was done in Python using OpenCV.
 
-# Image-Filtering
-Image filtering using high-pass and low-pass filter
 
 Left Image:
 
