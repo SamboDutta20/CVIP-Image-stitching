@@ -4,12 +4,12 @@ Keypoints (SIFT descriptors or KAZE descriptors) were used to generate homograph
 
 Left Image:
 
-![Original Picture](left.jpg)
+![Original Picture](ImageStitching/left.jpg)
 
 Right Image:
 
-![Original Picture](right.jpg)
+![Original Picture](ImageStitching/right.jpg)
 
 Final Result
 
-![Original Picture](task2_result.jpg)
+![Original Picture](ImageStitching/results/task2_result.jpg)
